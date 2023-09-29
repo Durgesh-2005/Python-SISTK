@@ -1,3 +1,4 @@
+#Program to display the Prime Numbers
 lower = int(input("Enter lower range: "))
 upper = int(input("Enter upper range: "))
 print("Prime numbers between",lower,"and",upper,"are:")

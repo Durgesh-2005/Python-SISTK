@@ -1,3 +1,4 @@
+#Program of all Arithametic Operations +,-,/,*,//,**,%
 num1 = int(input('Enter First number: '))
 num2 = int(input('Enter Second number: '))
 add = num1 + num2

@@ -1,5 +1,3 @@
-name = input("Name: ")
-print(f"Hello, {name}")
-print("Hello",name)
-print("Hello"+name)
-print("Hello {}..!".format(name))
+import function
+
+function.user()
