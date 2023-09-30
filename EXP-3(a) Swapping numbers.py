@@ -17,3 +17,9 @@ x = y
 y = temp
 print('The value of a after swapping: {}'.format(x))
 print(f'The value of b after swapping: {y}')
+
+#Swapping of numbers in defferent method
+_1st = int(input("\nEnter the first number:"))
+_2nd = int(input("Enter the second number:"))
+_1st,_2nd = _2nd,_1st
+print(f"After swapping 1st number = {_1st} and 2nd number = {_2nd}")
