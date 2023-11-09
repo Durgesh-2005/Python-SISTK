@@ -1,9 +1,14 @@
 #Operations on Dict
 d1={'name':'vasu','age':30,'class':'cse',7:10}
+#Prints type of d1
 print(type(d1))
+#Prints the d1 contents
 print('The dictionary d1 is',d1)
+#Prints the length of the d1
 print('Length of the dictionary d1 is',len(d1))
+#Prints the value of the key name in d1
 print('Value of key name is',d1['name'])
+#Prints the value of the key 7 in d1
 print('Value of key 7 is',d1[7])
 print('string representation is',str(d1))
 d2={}

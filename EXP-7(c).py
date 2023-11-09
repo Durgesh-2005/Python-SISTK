@@ -1,4 +1,4 @@
-#
+#Counts the words in the string
 def word_count(str):
  counts = dict()
  words = str.split()
